@@ -1,0 +1,7 @@
+{
+  "name": "Heroiu",
+  "description": "This Is A Heroiu Application On Heroku.",
+  "repository": "https://github.com/ashraf-atef/Heroiu",
+  "image": "heroku/java",
+  "addons": [ "heroku-postgresql" ]
+}
